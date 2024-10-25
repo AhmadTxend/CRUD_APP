@@ -1,0 +1,18 @@
+#container
+{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.ProductInput{
+    width: 70vh;
+}
+.productID-link{
+    cursor: pointer;
+}
+.productID-link:hover{
+    text-decoration: dotted;
+    color: skyblue;
+}
